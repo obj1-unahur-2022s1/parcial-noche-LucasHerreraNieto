@@ -1,3 +1,6 @@
+/*
+ * Muy Bien
+ */
 class Plato {
 	
 	method peso()
